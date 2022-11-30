@@ -12,13 +12,13 @@ body > header {
 }
 
 article.media-post {
-  border: solid 1px #000;
+  border: solid 1px rgb(223, 13, 13);
   margin: 2% 3%;
   background-color: #fff;
 }
 
 article.media-post > p {
-  background-color: rgba(0,123,255,0.25);
+  background-color: rgba(3, 11, 19, 0.25);
   padding: 1em 2em;
 }
 
